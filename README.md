@@ -1,5 +1,4 @@
 ### 👋 Hi, Welcome to my page. May you have a nice day! 
-- :star: Senior undergraduate in ECE @SJTU.
 - 🌱 TBD
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me:
